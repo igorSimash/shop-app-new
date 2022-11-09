@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: rgba(34, 34, 34, 0.09);
+    margin: 0;
+    padding: 0;
+}
